@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 **Addition Of Two Numbers**
 
 **objective:**
@@ -10,7 +9,4 @@ Add two numbers using CProgram
 
 **Result:**
 
-- Finally,the printf function is used to display the sum of numbers. 
-=======
-# Addition of Twonumbers in C
->>>>>>> 5b50a805c684c144646f1fedfae3c9ce8e6c1c08
+- Finally,the printf function is used to display the sum of numbers.
